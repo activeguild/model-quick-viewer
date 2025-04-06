@@ -1,6 +1,5 @@
 ``` 
-sudo cp /tmp/model-quick-viewer/macos-native/usdz-
-viewer.py /usr/local/bin/usdz-viewer.py
+sudo cp /tmp/model-quick-viewer/macos-native/usdz-viewer.py /usr/local/bin/usdz-viewer.py
 ```
 
 ```
