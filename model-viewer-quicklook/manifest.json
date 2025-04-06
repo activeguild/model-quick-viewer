@@ -1,0 +1,14 @@
+{
+  "manifest_version": 3,
+  "name": "Model Viewer Quick Look",
+  "version": "1.0",
+  "description": "Download and Quick Look USDZ/Reality files from <model-viewer>",
+  "permissions": ["scripting", "downloads", "activeTab", "contextMenus", "nativeMessaging"],
+  "host_permissions": ["<all_urls>"],
+  "action": {
+    "default_popup": "popup.html"
+  },
+  "background": {
+    "service_worker": "background.js"
+  }
+}
