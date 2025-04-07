@@ -1,7 +1,7 @@
 {
     "name": "com.usdz.viewer",
     "description": "USDZ/Reality Quick Look Launcher",
-    "path": "/Users/{User Name}}/projects/model-viewer-extractor/macos-native",
+    "path": "/usr/local/bin/usdz-viewer.sh",
     "type": "stdio",
     "allowed_origins": [
       "chrome-extension://{Google Extention ID}/"

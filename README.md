@@ -1,9 +1,9 @@
 ``` 
-sudo cp /tmp/model-quick-viewer/macos-native/usdz-viewer.py /usr/local/bin/usdz-viewer.py
+sudo cp /tmp/model-quick-viewer/macos-native/usdz-viewer.sh /usr/local/bin/usdz-viewer.sh
 ```
 
 ```
-sudo chmod +x /usr/local/bin/usdz-viewer.py   
+sudo chmod +x /usr/local/bin/usdz-viewer.sh   
 ```
 
 ```
